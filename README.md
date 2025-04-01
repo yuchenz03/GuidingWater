@@ -18,4 +18,4 @@ at least 10 gallons of water.
 The aliens and water moledules are randomly generated, and the aliens also have 
 random movement. 
 
-It's up to the player to create ensure that our planet survives!
+It's up to you to ensure that our planet survives!
